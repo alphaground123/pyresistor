@@ -31,7 +31,7 @@ The colored bands indicate the value of the resistor (ohms). The first two bands
 ![tag image] (https://github.com/alphaground123/pyresistor/blob/master/images/resistor1.png)
 
 # Constraint
-Constraint: The program can accept any digital input supplied in integer or real form, within the limits of from 10 to 10e11 Ω.
+This application can accept any digital input supplied in integer or real form, within the limits of from 10 to 10e11 Ω.
 
 If the digit input is out of the limits, the background will be red during one second and the value will be deleted.
 
