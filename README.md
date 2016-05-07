@@ -14,9 +14,6 @@ This application aims to find quickly the code of three colors corresponding to 
 It is simply to use this application, just put the value in the input and press the enter key.
 
 ## Resistor Color Code
-
-![tag image] (https://github.com/alphaground123/pyresistor/blob/master/images/resistor1.png)
-
 Here is the code of colors for a resistor:
 Black = 0
 Brown = 1
@@ -30,6 +27,8 @@ Grey = 8
 White = 9
 
 The colored bands indicate the value of the resistor (ohms). The first two bands indicate the first two digits of the numerical value. Then, we append these two digits a number of zeros equal to the indication provided by the third band. 
+
+![tag image] (https://github.com/alphaground123/pyresistor/blob/master/images/resistor1.png)
 
 # Constraint
 Constraint: The program can accept any digital input supplied in integer or real form, within the limits of from 10 to 10e11 Ω.
