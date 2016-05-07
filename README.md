@@ -4,7 +4,7 @@
 This application aims to find quickly the code of three colors corresponding to an electrical resistance to a determined value.
 
 # GUI
-image1
+![tag image] (https://github.com/alphaground123/pyresistor/blob/master/images/image1.PNG)
 
 ## Supported platforms:
 - Windows
@@ -12,7 +12,6 @@ image1
 
 ## How to use
 It is simply to use this application, just put the value in the input and press the enter key.
-
 
 ## Code color
 
@@ -40,7 +39,7 @@ In this system, we specify two digits and it is sufficient for most electronic a
 ## Example
 For a value of 5300 Ω, the colored bands are green, orange and red.
 
-image2
+![tag image] (https://github.com/alphaground123/pyresistor/blob/master/images/image2.PNG)
 
 ## Licence
 
