@@ -3,7 +3,7 @@
 ## Description
 This application aims to find quickly the code of three colors corresponding to an electrical resistance to a determined value.
 
-# GUI
+## Graphical User Interface (GUI)
 ![tag image] (https://github.com/alphaground123/pyresistor/blob/master/images/image1.PNG)
 
 ## Supported platforms:
@@ -13,7 +13,7 @@ This application aims to find quickly the code of three colors corresponding to 
 ## How to use
 It is simply to use this application, just put the value in the input and press the enter key.
 
-## Code color
+## Resistor Color Code
 
 Here is the code of colors for a resistor:
 Black = 0
