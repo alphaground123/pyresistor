@@ -15,6 +15,8 @@ It is simply to use this application, just put the value in the input and press 
 
 ## Resistor Color Code
 
+![tag image] (https://github.com/alphaground123/pyresistor/blob/master/images/resistor1.png)
+
 Here is the code of colors for a resistor:
 Black = 0
 Brown = 1
