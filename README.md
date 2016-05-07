@@ -1,0 +1,2 @@
+# pyresistor
+Color code resistor
